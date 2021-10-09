@@ -1,10 +1,1 @@
-{
-  "data": [
-    {
-      "title": "venom",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@.jpg",
-      "id": "tt1270797",
-      "link": ""
-    }
-  ]
-}
+{ "data": [ { "title": "venom", "image": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@.jpg", "id": "tt1270797", "link": "" }, { "title": "Doctor Strange", "image": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@.jpg", "id": "tt1211837", "link": "" }, { "title": "Sherlock Holmes", "image": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@.jpg", "id": "tt0988045", "link": "" } ] }
