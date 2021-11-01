@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <sect1 id="wrapper_inside">
+    <para><note><remark>HTML: &lt;meta name="" content="/images/logo.png"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="Gogoanime"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="en_US"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="website"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="100010507416730"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="517001538491321"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="Gogoanime | Watch anime online, English anime online HD"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="Watch anime online in English. You can watch free series and movies online and English subtitle."&gt;</remark></note><note><remark>HTML: &lt;meta name="" content=""&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="/images/logo.png"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="/images/logo.png"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="summary"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="Gogoanime | Watch anime online, English anime online HD"&gt;</remark></note><note><remark>HTML: &lt;meta name="" content="Watch anime online in English. You can watch free series and movies online and English subtitle."&gt;</remark></note>        var base_url = 'https://' + document.domain + '/';
+        var base_url_cdn_api = 'https://ajax.gogo-load.com/';
+        var api_anclytic = 'https://ajax.gogo-load.com/anclytic-ajax.html';
+    </para>
+  </sect1>
+  <sect1><title><note><remark>&lt;!-- Recent Release---&gt;</remark></note><olink targetdocent="javascript:void(0)">Recent Release</olink> | <olink targetdocent="javascript:void(0)">DUB</olink>| <olink targetdocent="javascript:void(0)">Chinese</olink></title><note><remark>&lt;!-- Recent Release---&gt;</remark></note><olink targetdocent="javascript:void(0)">Recent Release</olink>|<olink targetdocent="javascript:void(0)">DUB</olink>|<olink targetdocent="javascript:void(0)">Chinese</olink><orderedlist><listitem><para><olink targetdocent="./%3Fpage=1">1</olink></para></listitem><listitem><para><olink targetdocent="./%3Fpage=2">2</olink></para></listitem><listitem><para><olink targetdocent="./%3Fpage=3">3</olink></para></listitem><listitem><para><olink targetdocent="./%3Fpage=4">4</olink></para></listitem><listitem><para><olink targetdocent="./%3Fpage=5">5</olink></para></listitem></orderedlist><orderedlist><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/gyagu-manga-biyori.png" width="2.9374inch" depth="4.1874inch"/><olink targetdocent="../../gyagu-manga-biyori-episode-12"> </olink></para><para><olink targetdocent="../../gyagu-manga-biyori-episode-12">Gyagu Manga Biyori</olink></para><para>Episode 12</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/komi-san-wa-comyushou-desu.png" width="2.3646inch" depth="3.3335inch"/><olink targetdocent="../../komi-san-wa-comyushou-desu-episode-4"> </olink></para><para><olink targetdocent="../../komi-san-wa-comyushou-desu-episode-4">Komi-san wa, Comyushou desu.</olink></para><para>Episode 4</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/red-baron.png" width="2.3646inch" depth="3.1457inch"/><olink targetdocent="../../red-baron-episode-48"> </olink></para><para><olink targetdocent="../../red-baron-episode-48">Red Baron</olink></para><para>Episode 48</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/shinkansen-henkei-robo-shinkalion-z-the-animation.png" width="2.3646inch" depth="3.3228inch"/><olink targetdocent="../../shinkansen-henkei-robo-shinkalion-z-the-animation-episode-25"> </olink></para><para><olink targetdocent="../../shinkansen-henkei-robo-shinkalion-z-the-animation-episode-25">Shinkansen Henkei Robo Shinkalion Z the Animation</olink></para><para>Episode 25</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/gegege-no-kitarou-1968.png" width="2.3646inch" depth="3.3126inch"/><olink targetdocent="../../gegege-no-kitarou-1968-episode-22"> </olink></para><para><olink targetdocent="../../gegege-no-kitarou-1968-episode-22">Gegege no Kitarou (1968)</olink></para><para>Episode 22</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/shounan-bakusouzoku.png" width="2.3646inch" depth="3.0835inch"/><olink targetdocent="../../shounan-bakusouzoku-episode-9"> </olink></para><para><olink targetdocent="../../shounan-bakusouzoku-episode-9">Shounan Bakusouzoku</olink></para><para>Episode 9</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/images/upload/55755.jpg" width="2.3646inch" depth="3.6665inch"/><olink targetdocent="../../attacker-you-episode-36"> </olink></para><para><olink targetdocent="../../attacker-you-episode-36">Attacker You!</olink></para><para>Episode 36</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/ganbare-douki-chan.png" width="2.3646inch" depth="3.3228inch"/><olink targetdocent="../../ganbare-douki-chan-episode-7"> </olink></para><para><olink targetdocent="../../ganbare-douki-chan-episode-7">Ganbare Douki-chan</olink></para><para>Episode 7</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/getsuyoubi-no-tawawa-2.png" width="2.3646inch" depth="3.3335inch"/><olink targetdocent="../../getsuyoubi-no-tawawa-2-episode-7"> </olink></para><para><olink targetdocent="../../getsuyoubi-no-tawawa-2-episode-7">Getsuyoubi no Tawawa 2</olink></para><para>Episode 7</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/tsuki-to-laika-to-nosferatu.png" width="4.8126inch" depth="6.7917inch"/><olink targetdocent="../../tsuki-to-laika-to-nosferatu-episode-5"> </olink></para><para><olink targetdocent="../../tsuki-to-laika-to-nosferatu-episode-5">Tsuki to Laika to Nosferatu</olink></para><para>Episode 5</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season.png" width="4.8126inch" depth="6.7602inch"/><olink targetdocent="../../mushoku-tensei-isekai-ittara-honki-dasu-2nd-season-episode-5"> </olink></para><para><olink targetdocent="../../mushoku-tensei-isekai-ittara-honki-dasu-2nd-season-episode-5">Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season</olink></para><para>Episode 5</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/tesla-note.png" width="4.8126inch" depth="6.7811inch"/><olink targetdocent="../../tesla-note-episode-5"> </olink></para><para><olink targetdocent="../../tesla-note-episode-5">Tesla Note</olink></para><para>Episode 5</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/mieruko-chan.png" width="4.8126inch" depth="6.8437inch"/><olink targetdocent="../../mieruko-chan-episode-5"> </olink></para><para><olink targetdocent="../../mieruko-chan-episode-5">Mieruko-chan</olink></para><para>Episode 5</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/sankaku-mado-no-sotogawa-wa-yoru.png" width="4.8126inch" depth="6.8752inch"/><olink targetdocent="../../sankaku-mado-no-sotogawa-wa-yoru-episode-5"> </olink></para><para><olink targetdocent="../../sankaku-mado-no-sotogawa-wa-yoru-episode-5">Sankaku Mado no Sotogawa wa Yoru</olink></para><para>Episode 5</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/boruto-naruto-next-generations.png" width="2.3646inch" depth="3.3228inch"/><olink targetdocent="../../boruto-naruto-next-generations-episode-222"> </olink></para><para><olink targetdocent="../../boruto-naruto-next-generations-episode-222">Boruto: Naruto Next Generations</olink></para><para>Episode 222</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/shikizakura.png" width="4.8126inch" depth="6.7917inch"/><olink targetdocent="../../shikizakura-episode-4"> </olink></para><para><olink targetdocent="../../shikizakura-episode-4">Shikizakura</olink></para><para>Episode 4</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/digimon-ghost-game.png" width="2.3646inch" depth="3.3228inch"/><olink targetdocent="../../digimon-ghost-game-episode-4"> </olink></para><para><olink targetdocent="../../digimon-ghost-game-episode-4">Digimon Ghost Game</olink></para><para>Episode 4</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/images/anime/One-piece.jpg" width="4.1874inch" depth="5.2291inch"/><olink targetdocent="../../one-piece-episode-997"> </olink></para><para><olink targetdocent="../../one-piece-episode-997">One Piece</olink></para><para>Episode 997</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/waccha-primagi.png" width="4.8126inch" depth="6.8437inch"/><olink targetdocent="../../waccha-primagi-episode-5"> </olink></para><para><olink targetdocent="../../waccha-primagi-episode-5">Waccha PriMagi!</olink></para><para>Episode 5</para></listitem><listitem><para><inlinegraphic fileref="https://gogocdn.net/cover/tropical-rouge-precure.png" width="4.8126inch" depth="6.802inch"/><olink targetdocent="../../tropical-rouge-precure-episode-35"> </olink></para><para><olink targetdocent="../../tropical-rouge-precure-episode-35">Tropical-Rouge! Precure</olink></para><para>Episode 35</para></listitem></orderedlist><sect3 id="load_popular_ongoing"><para><note><remark>&lt;!-- / Recent Release---&gt;</remark></note><note><remark>&lt;!-- Featured Comedy / Romance Anime---&gt;</remark></note></para></sect3></sect1>
+  <sect1>
+    <title><note><remark>&lt;!-- /Featured Comedy / Romance Anime---&gt;</remark></note><note><remark>&lt;!-- Recently Added Series---&gt;</remark></note>Recently Added Series</title>
+    <note>
+      <remark>&lt;!-- /Featured Comedy / Romance Anime---&gt;</remark>
+    </note>
+    <note>
+      <remark>&lt;!-- Recently Added Series---&gt;</remark>
+    </note>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="../../category/soredemo-ayumu-wa-yosetekuru">Soredemo Ayumu wa Yosetekuru</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/kakkou-no-iinazuke">Kakkou no Iinazuke</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/machikado-mazoku-2nd-season">Machikado Mazoku 2nd Season</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/86-2nd-season">86 2nd Season</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/isekai-shokudou-2">Isekai Shokudou 2</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/isekai-meikyuu-de-harem-wo">Isekai Meikyuu de Harem wo</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/tokyo-mew-mew-new">Tokyo Mew Mew New ♡</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/tensai-ouji-no-akaji-kokka-saisei-jutsu">Tensai Ouji no Akaji Kokka Saisei Jutsu</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/mieruko-chan">Mieruko-chan</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/shuumatsu-no-harem">Shuumatsu no Harem</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches">Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/jigokuraku">Jigokuraku</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/kenja-no-deshi-wo-nanoru-kenja">Kenja no Deshi wo Nanoru Kenja</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/shikizakura">Shikizakura</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi">Mahoutsukai ni Narenakatta Onnanoko no Hanashi.</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/koroshi-ai">Koroshi Ai</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/shikkakumon-no-saikyou-kenja">Shikkakumon no Saikyou Kenja</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/sazae-san">Sazae-san</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/taishou-otome-otogibanashi">Taishou Otome Otogibanashi</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/kyuuketsuki-sugu-shinu">Kyuuketsuki Sugu Shinu</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/visual-prison">Visual Prison</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/senpai-ga-uzai-kouhai-no-hanashi">Senpai ga Uzai Kouhai no Hanashi</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/kaginado">Kaginado</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/platinum-end">Platinum End</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/puraore-pride-of-orange">Puraore! Pride of Orange</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/date-a-live-iv">Date A Live IV</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/komi-san-wa-comyushou-desu">Komi-san wa, Comyushou desu.</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/baraou-no-souretsu">Baraou no Souretsu</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/build-divide-code-black">Build Divide: Code Black</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/saihate-no-paladin">Saihate no Paladin</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/hanyou-no-yashahime-sengoku-otogizoushi-2nd-season">Hanyou no Yashahime: Sengoku Otogizoushi 2nd Season</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/heavenly-sword-dub">Heavenly Sword (Dub)</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/higurashi-no-naku-koro-ni-sotsu">Higurashi no Naku Koro ni Sotsu</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/tantei-wa-mou-shindeiru">Tantei wa Mou, Shindeiru.</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore">Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/megami-ryou-no-ryoubo-kun">Megami-ryou no Ryoubo-kun.</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/uramichi-oniisan">Uramichi Oniisan</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/night-head-2041">Night Head 2041</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/jahy-sama-wa-kujikenai">Jahy-sama wa Kujikenai!</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../category/idolish7-third-beat">IDOLiSH7: Third Beat!</olink> </para>
+      </listitem>
+    </orderedlist>
+    <para><note><remark>&lt;!-- / Recently Added Series---&gt;</remark></note>Day</para>
+    <para>Week</para>
+    <para>Month</para>
+    <sect3 id="load-anclytic">
+      <para/>
+      <sect4 id="laoding">
+        <para/>
+      </sect4>
+      <sect4 id="load_topivews">
+        <para/>
+      </sect4>
+      <sect4 id="Section1">
+        <para>
+          <anchor id="load_topivews"/>
+        </para>
+      </sect4>
+      <sect4 id="Section2">
+        <para>
+          <anchor id="load_topivews1"/>
+        </para>
+      </sect4>
+    </sect3>
+  </sect1>
+  <sect1>
+    <title>ADVERTISEMENTS</title>
+    <sect3 id="bg_311324195">
+      <para><note><remark>BEGIN BEBI BANNER JS TAG</remark></note>  if(!window.BB_a) { BB_a = [];} if(!window.BB_ind) { BB_ind = 0; } if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)} BB_ind++; BB_a.push({ "pl" : 41731, "index": BB_ind});<note><remark>END TAG</remark></note></para>
+    </sect3>
+    <sect3 id="M688319ScriptRootC1089878">
+      <para>(function (){
+var urlCB = new Date().getTime();
+document.write('&lt;script data-cfasync="false" src="//platform.bidgear.com/ads.php?domainid=3113&amp;sizeid=2&amp;zoneid=4195&amp;k='+urlCB+ '" type="text/javascript"&gt;&lt;/s' + 'cript&gt;');
+})()<note><remark>Composite Start</remark></note></para>
+    </sect3>
+  </sect1>
+  <sect1>
+    <title><note><remark>Composite End</remark></note>ongoing series</title>
+    <note>
+      <remark>Composite End</remark>
+    </note>
+    <sect3 id="scrollbar2">
+      <orderedlist>
+        <listitem>
+          <para><note><remark>begon</remark></note><olink targetdocent="../../category/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season-dub">100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka">180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/6hp-six-hearts-princess">6HP (Six Hearts Princess)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/86-2nd-season">86 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/against-the-sky-supreme">Against the Sky Supreme</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/aggressive-retsuko-ona-4th-season">Aggressive Retsuko (ONA) 4th Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ai-city">Ai City</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/aikatsu-planet">Aikatsu Planet!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/an-jie-shen-shi">An Jie Shen Shi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ao-no-exorcist-kuro-no-iede-dub">Ao no Exorcist: Kuro no Iede (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/aotu-shijie-3">AOTU Shijie 3</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/assault-lily-fruits">Assault Lily: Fruits</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/babel-nisei">Babel Nisei</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/back-arrow-dub">Back Arrow (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/bai-yao-pu-2nd-season">Bai Yao Pu 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/beyblade-burst-dynamite-battle">Beyblade Burst Dynamite Battle</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/beyblade-burst-sparking-dub">Beyblade Burst Sparking (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/blade-runner-black-lotus">Blade Runner: Black Lotus</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/blocker-gundan-iv-machine-blaster">Blocker Gundan IV Machine Blaster</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/blue-period">Blue Period</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/blue-reflex-ray">Blue Reflex Ray</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/boruto-naruto-next-generations">Boruto: Naruto Next Generations</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/boruto-naruto-next-generations-dub">Boruto: Naruto Next Generations (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/budo-xianzun">Budo Xianzun</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/build-divide-code-black">Build Divide: Code Black</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/bungou-to-alchemist-shinpan-no-haguruma-dub">Bungou to Alchemist: Shinpan no Haguruma (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/can-ci-pin-fangzhu-xingkong">Can Ci Pin: Fangzhu Xingkong</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/cap-kakumei-bottleman">Cap Kakumei Bottleman</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/cardfight-vanguard-overdress-dub">Cardfight!! Vanguard: overDress (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/cardfight-vanguard-overdress-season-2">Cardfight!! Vanguard: overDress Season 2</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/cardfight-vanguard-zoku-koukousei-hen-dub">Cardfight!! Vanguard: Zoku Koukousei-hen (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/celia-sensei-no-wakuwaku-magical-kyoushitsu">Celia-sensei no Wakuwaku Magical Kyoushitsu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/chibi-revenger">Chibi Revenger</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/chokotto-anime-kemono-friends-3">Chokotto Anime Kemono Friends 3</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/chou-dendou-robo-tetsujin-28-gou-fx">Chou Dendou Robo Tetsujin 28-gou FX</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/chun-qiu-feng-shen">Chun Qiu Feng Shen</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/cosmos-trailer">Cosmos Trailer</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/crayon-shin-chan">Crayon Shin Chan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/crayon-shin-chan-dub">Crayon Shin-chan (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/deatte-5-byou-de-battle-dub">Deatte 5-byou de Battle (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/deep-insanity-the-lost-child">Deep Insanity: The Lost Child</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/deification-of-spring-and-autumn-period">Deification of Spring and Autumn Period</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/deji-meets-girl">Deji Meets Girl</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/detective-conan">Detective Conan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/digimon-ghost-game">Digimon Ghost Game</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/dinghai-fusheng-lu">Dinghai Fusheng Lu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/dokidoki-precure-dub">Dokidoki! Precure (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/dosukoi-sushi-zumou">Dosukoi Sushi Zumou</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/dou-shen-ji">Dou Shen Ji</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/douluo-dalu-2nd-season">Douluo Dalu 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/doupo-cangqiong-san-nian-zhi-yue">Doupo Cangqiong: San Nian Zhi Yue</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/dragon-quest-dai-no-daibouken-2020">Dragon Quest: Dai no Daibouken (2020)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/dubu-xiaoyao">Dubu Xiaoyao</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/edens-zero-dub">Edens Zero (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/elf-academy">ELF Academy</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/fategrand-carnival">Fate/Grand Carnival</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/fei-ren-zai-4th-season">Fei Ren Zai 4th Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/fushigi-dagashiya-zenitendou">Fushigi Dagashiya: Zenitendou</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/future-card-buddyfight-ace-dub">Future Card Buddyfight Ace (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/gaina-tamager">Gaina Tamager</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/gal-gaku-hijiri-girls-square-gakuin">Gal-gaku.: Hijiri Girls Square Gakuin</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ganbare-douki-chan">Ganbare Douki-chan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/gekitou-crush-gear-turbo">Gekitou! Crush Gear Turbo</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/genjitsu-shugi-yuusha-no-oukoku-saikenki-dub">Genjitsu Shugi Yuusha no Oukoku Saikenki (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/get-ride-amdriver">Get Ride! AMDriver</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/getsuyoubi-no-tawawa-2">Getsuyoubi no Tawawa 2</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/getter-robo-arc-dub">Getter Robo Arc (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ginga-kikoutai-majestic-prince-mirai-e-no-tsubasa-dub">Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/gregory-horror-show-the-bloody-karte-dub">Gregory Horror Show: The Bloody Karte (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/groizer-x">Groizer X</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/gundam-breaker-battlogue">Gundam Breaker: Battlogue</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/gyakuten-sekai-no-denchi-shoujo">Gyakuten Sekai no Denchi Shoujo</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou">Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/happy-sugar-life-dub">Happy Sugar Life (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/heibai-wushuang-3rd-season">Heibai Wushuang 3rd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/heike-monogatari">Heike Monogatari</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/hetalia-worldstars-dub">Hetalia World★Stars (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/higurashi-no-naku-koro-ni-sotsu-dub">Higurashi no Naku Koro ni Sotsu (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/holo-no-graffiti">Holo no Graffiti</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/hong-huang">Hong Huang</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/hori-san-to-miyamura-kun">Hori-san to Miyamura-kun</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/how-to-train-your-dragon-2-dub">How to Train Your Dragon 2 (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/hua-jianghu-zhi-gui-yexing">Hua Jianghu Zhi Gui Yexing</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/hua-jianghu-zhi-huan-shi-men-sheng-2nd-season">Hua Jianghu Zhi Huan Shi Men Sheng 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para>
+            <olink targetdocent="../../category/huangli-shi">Huangli Shi </olink>
+          </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ichu-halfway-through-the-idol">I★Chu: Halfway Through the Idol</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/idol-land-pripara">Idol Land PriPara</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-w-dub">Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/isekai-shokudou-2">Isekai Shokudou 2</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/jahy-sama-wa-kujikenai">Jahy-sama wa Kujikenai!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/jiu-tain-yuan-di-jue">Jiu Tain Yuan Di Jue</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/jue-ding">Jue Ding</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kageki-shoujo-dub">Kageki Shoujo!! (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kaginado">Kaginado</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kimetsu-no-yaiba-mugen-ressha-hen">Kimetsu no Yaiba: Mugen Ressha-hen</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kimi-to-fit-boxing">Kimi to Fit Boxing</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kings-raid-ishi-wo-tsugumono-tachi-dub">King's Raid: Ishi wo Tsugumono-tachi (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kiratto-prichan-season-3">Kiratto Pri☆chan Season 3</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kobayashi-san-chi-no-maid-dragon-s-dub">Kobayashi-san Chi no Maid Dragon S (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kodomo-no-omocha-tv-dub">Kodomo no Omocha (TV) (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/komi-san-wa-comyushou-desu">Komi-san wa, Comyushou desu.</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kouchuu-ouja-mushiking-mori-no-tami-no-densetsu">Kouchuu Ouja Mushiking: Mori no Tami no Densetsu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kuang-shen-mo-zun">Kuang Shen Mo Zun</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kyoukai-senki">Kyoukai Senki</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/kyuuketsuki-sugu-shinu">Kyuuketsuki Sugu Shinu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/legends-of-dawn-the-sacred-stone">Legends of Dawn: The Sacred Stone</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/li-linke-de-xiao-guaner">Li Linke De Xiao Guaner</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/liang-bu-yi">Liang Bu Yi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/lie-huo-jiao-chou">Lie Huo Jiao Chou</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/little-bell-and-amis-love-story">Little Bell and Ami’s Love Story</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/liu-xing-huan-jian">Liu Xing Huan Jian</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/love-live-superstar">Love Live! Superstar!!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/lupin-iii-part-6">Lupin III: Part 6</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/magical-suite-prism-nana">Magical Suite Prism Nana</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mahou-no-angel-sweet-mint">Mahou no Angel Sweet Mint</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mahouka-koukou-no-yuutousei-dub">Mahouka Koukou no Yuutousei (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi">Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/maiko-san-chi-no-makanai-san">Maiko-san Chi no Makanai-san</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mairimashita-iruma-kun-2nd-season">Mairimashita! Iruma-kun 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mairimashita-iruma-kun-2nd-season-dub">Mairimashita! Iruma-kun 2nd Season (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/maoling-xiangce">Maoling Xiangce</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mazica-party">Mazica Party</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/megaton-kyuu-musashi">Megaton-kyuu Musashi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/meikyuu-black-company-dub">Meikyuu Black Company (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/meng-qi-shi-shen-zaijie-liangyuan">Meng Qi Shi Shen: Zaijie Liangyuan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mewkledreamy-mix">Mewkledreamy Mix!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mieruko-chan">Mieruko-chan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/milgyaam">MILGЯAM</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mini-dragon-specials">Mini Dragon Specials</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mini-van-large">Mini Van Large</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mo-dao-zu-shi-3rd-season">Mo Dao Zu Shi 3rd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/moshi-juexing-zhi-suyuan">Moshi Juexing Zhi Suyuan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/motto-majime-ni-fumajime-kaiketsu-zorori-2nd-season">Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mugyutto-black-clover">Mugyutto! Black Clover</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season">Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season-dub">Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/muteking-the-dancing-hero">Muteking the Dancing Hero</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/muv-luv-alternative">Muv-Luv Alternative</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/nanatsu-no-taizai-fundo-no-shinpan-dub">Nanatsu no Taizai: Fundo no Shinpan (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/nomad-megalo-box-2">Nomad: Megalo Box 2</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/nuwa-chengzhang-riji">Nuwa Chengzhang Riji</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/obake-zukan">Obake Zukan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/obey-me">Obey Me!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/okashi-na-sabaku-no-suna-to-manu">Okashi na Sabaku no Suna to Manu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/one-piece">One Piece</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/one-piece-dub">One Piece (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ore-tsushima">Ore, Tsushima</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ore-tsushima-ona">Ore, Tsushima (ONA)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x-dub">Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/ousama-ranking">Ousama Ranking</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/peerless-martial-spirit">Peerless Martial Spirit</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/platinum-end">Platinum End</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/pokemon-2019">Pokemon (2019)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/pokemon-2019-dub">Pokemon (2019) (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/pokemon-evolutions">Pokemon Evolutions</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/poketoon">Poketoon</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/poputepipikku-tv-special-dub">Poputepipikku TV Special (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/pretty-all-friends-selection">Pretty All Friends Selection</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/puraore-pride-of-orange">Puraore! Pride of Orange</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/qin-shi-ming-yue-canghai-hengliu">Qin Shi Ming Yue : Canghai Hengliu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/queens-blade-unlimited">Queen's Blade: Unlimited</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/re-main-dub">Re-Main (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/rebirth">Rebirth</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/renjian-zui-deyi">Renjian Zui Deyi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/rifle-is-beautiful-dub">Rifle Is Beautiful (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/saihate-no-paladin">Saihate no Paladin</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/sakugan">Sakugan</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/sankaku-mado-no-sotogawa-wa-yoru">Sankaku Mado no Sotogawa wa Yoru</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/sayonara-watashi-no-cramer">Sayonara Watashi no Cramer</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/scarlet-nexus">Scarlet Nexus</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/scarlet-nexus-dub">Scarlet Nexus (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/seizei-ganbare-mahou-shoujo-kurumi-3rd-season">Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru">Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/selection-project">Selection Project</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/senpai-ga-uzai-kouhai-no-hanashi">Senpai ga Uzai Kouhai no Hanashi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/sentouin-hakenshimasu-dub">Sentouin, Hakenshimasu! (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/senyoku-no-sigrdrifa">Senyoku no Sigrdrifa</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shaman-king-2021">Shaman King (2021)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shaman-king-2021-dub">Shaman King (2021) (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shaman-king-funbari-onsen-prosperity-tale">Shaman King Funbari Onsen Prosperity Tale</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shaonian-ge-xing-feng-hua-xue-yue-pian">Shaonian Ge Xing: Feng Hua Xue Yue Pian</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shi-yi-chang-an-ming-yue-ji-shi-you">Shi Yi Chang An: Ming Yue Ji Shi You</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shiguang-dailiren-specials">Shiguang Dailiren Specials</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shikizakura">Shikizakura</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita">Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita-dub">Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shinigami-bocchan-to-kuro-maid-dub">Shinigami Bocchan to Kuro Maid (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei">Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shinkansen-henkei-robo-shinkalion-z-the-animation">Shinkansen Henkei Robo Shinkalion Z the Animation</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shiroi-suna-no-aquatope">Shiroi Suna no Aquatope</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shouxi-yu-ling-shi-2nd-season">Shouxi Yu Ling Shi 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/shuumatsu-no-harem">Shuumatsu no Harem</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/si-hai-jing-qi-2nd-season">Si Hai Jing Qi 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/sonny-boy-dub">Sonny Boy (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/sou-xuan-lu-zhi-chen-ling-ji">Sou Xuan Lu Zhi Chen Ling Ji</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/subarashiki-kono-sekai-the-animation-dub">Subarashiki Kono Sekai The Animation (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/super-dragon-ball-heroes-big-bang-mission">Super Dragon Ball Heroes: Big Bang Mission</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tai-yi-xian-mo-lu-zhi-ling-fei-ji-iv">Tai Yi Xian Mo Lu Zhi Ling Fei Ji IV</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/taishou-otome-otogibanashi">Taishou Otome Otogibanashi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/taisou-zamurai-dub">Taisou Zamurai (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/takt-op-destiny">Takt Op. Destiny</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tantei-wa-mou-shindeiru-dub">Tantei wa Mou, Shindeiru. (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tensei-shitara-slime-datta-ken-2nd-season-part-2-dub">Tensei shitara Slime Datta Ken 2nd Season Part 2 (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tesla-note">Tesla Note</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/the-idolmster-shiny-festa">The [email protected] Shiny Festa</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/time-bokan-series-itadakiman">Time Bokan Series: Itadakiman</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/time-prisoner">Time Prisoner</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tokyo-revengers-dub">Tokyo Revengers (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/touhou-gensou-mangekyou-the-memories-of-phantasm">Touhou Gensou Mangekyou: The Memories of Phantasm</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/toushinki-gs-frame">Toushinki G's Frame</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/transformers-war-for-cybertron-trilogy">Transformers: War For Cybertron Trilogy</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tropical-rouge-precure">Tropical-Rouge! Precure</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tsuki-to-laika-to-nosferatu">Tsuki to Laika to Nosferatu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tsukipro-the-animation-2">Tsukipro The Animation 2</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tunshi-xingkong">Tunshi Xingkong</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/tv-yarou-nanaana-kaibutsu-kraken-wo-oe">TV Yarou Nanaana: Kaibutsu Kraken wo Oe!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/uramichi-oniisan-dub">Uramichi Oniisan (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/vanitas-no-carte-dub">Vanitas no Carte (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/virtua-fighter-dub">Virtua Fighter (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/visual-prison">Visual Prison</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/waccha-primagi">Waccha PriMagi!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wan-jie-xian-zong-5th-season">Wan Jie Xian Zong 5th Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wanmei-shijie">Wanmei Shijie</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wei-wo-du-shen">Wei Wo Du Shen</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wo-jia-da-shixiong-shi-ge-fanpai">Wo Jia Da Shixiong Shi Ge Fanpai</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wo-zhen-de-meiyong-mie">Wo Zhen de Meiyong Mie?</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/world-trigger-3rd-season">World Trigger 3rd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wu-geng-ji-4th-season">Wu Geng Ji 4th Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wu-shang-shen-di-2nd-season">Wu Shang Shen Di 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wu-shen-zhu-zai">Wu Shen Zhu Zai</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/wuxian-shaonu-48">Wuxian Shaonu 48</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xian-wang-de-richang-shenghuo-2nd-season">Xian Wang de Richang Shenghuo 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xian-yu-ge">Xian Yu Ge</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xing-hai-qi-shi">Xing Hai Qi Shi</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xing-wu-shen-jue">Xing Wu Shen Jue</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xingchen-bian-xichen-yao-hai">Xingchen Bian: Xichen Yao Hai</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xinghe-zhizun">Xinghe Zhizun</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xiong-chumo-zhi-xiongxiong-leyuan-dub">Xiong Chumo Zhi: Xiongxiong Leyuan (Dub)</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/xixing-ji-3nd-season">Xixing Ji 3nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yakunara-mug-cup-mo-niban-gama">Yakunara Mug Cup mo: Niban Gama</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yao-shen-ji-5th-season">Yao Shen Ji 5th Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yi-nian-yong-heng">Yi Nian Yong Heng</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yi-ren-zhi-xia-4th-season">Yi Ren Zhi Xia 4th Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yi-shijie-zhongyao-pu-2">Yi Shijie Zhongyao Pu 2</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/youjo-senki-sabaku-no-pasta-dai-sakusen">Youjo Senki: Sabaku no Pasta Dai Sakusen</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/youjo-shachou">Youjo Shachou</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/youkai-watch-jam-youkai-gakuen-y-n-to-no-souguu">Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/youxia-zhanji">Youxia Zhanji</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yugioh-sevens">Yu☆Gi☆Oh!: Sevens</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yuan-shen-haojie">Yuan Shen Haojie</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yuuki-yuuna-wa-yuusha-de-aru-churutto">Yuuki Yuuna wa Yuusha de Aru Churutto!</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou">Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/yuukoku-no-moriarty-2nd-season">Yuukoku no Moriarty 2nd Season</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/zoids-wild-senki">Zoids Wild Senki</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/zoids-wild-zero">Zoids Wild Zero</olink> </para>
+        </listitem>
+        <listitem>
+          <para><olink targetdocent="../../category/zombieland-saga-revenge-dub">Zombieland Saga: Revenge (Dub)</olink> </para>
+        </listitem>
+      </orderedlist>
+    </sect3>
+  </sect1>
+  <sect1>
+    <title><note><remark>&lt;!-- tao thanh cuon 1--&gt;</remark></note>Genres</title>
+    <note>
+      <remark>&lt;!-- tao thanh cuon 1--&gt;</remark>
+    </note>
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="../../genre/action">Action</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/adventure">Adventure</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/cars">Cars</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/comedy">Comedy</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/crime">Crime</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/dementia">Dementia</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/demons">Demons</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/drama">Drama</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/dub">Dub</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/ecchi">Ecchi</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/family">Family</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/fantasy">Fantasy</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/game">Game</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/gourmet">Gourmet</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/harem">Harem</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/hentai">Hentai</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/historical">Historical</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/horror">Horror</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/josei">Josei</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/kids">Kids</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/magic">Magic</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/martial-arts">Martial Arts</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/mecha">Mecha</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/military">Military</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/music">Music</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/mystery">Mystery</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/parody">Parody</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/police">Police</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/psychological">Psychological</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/romance">Romance</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/samurai">Samurai</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/school">School</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/sci-fi">Sci-Fi</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/seinen">Seinen</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/shoujo">Shoujo</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/shoujo-ai">Shoujo Ai</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/shounen">Shounen</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/shounen-ai">Shounen Ai</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/slice-of-life">Slice of Life</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/space">Space</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/sports">Sports</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/super-power">Super Power</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/supernatural">Supernatural</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/suspense">Suspense</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/thriller">Thriller</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/vampire">Vampire</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/yaoi">Yaoi</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="../../genre/yuri">Yuri</olink> </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+  <sect1>
+    <title>Season</title>
+    <orderedlist>
+      <listitem>
+        <para>Anime 2021: <olink targetdocent="../../sub-category/winter-2021-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2021-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2021-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2021-anime">Fall</olink> </para>
+      </listitem>
+      <listitem>
+        <para>Anime 2020: <olink targetdocent="../../sub-category/winter-2020-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2020-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2020-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2020-anime">Fall</olink> </para>
+      </listitem>
+      <listitem>
+        <para>Anime 2019: <olink targetdocent="../../sub-category/winter-2019-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2019-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2019-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2019-anime">Fall</olink> </para>
+      </listitem>
+      <listitem>
+        <para>Anime 2018: <olink targetdocent="../../sub-category/winter-2018-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2018-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2018-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2018-anime">Fall</olink> </para>
+      </listitem>
+      <listitem>
+        <para>Anime 2017: <olink targetdocent="../../sub-category/winter-2017-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2017-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2017-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2017-anime">Fall</olink> </para>
+      </listitem>
+      <listitem>
+        <para>Anime 2016: <olink targetdocent="../../sub-category/winter-2016-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2016-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2016-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2016-anime">Fall</olink> </para>
+      </listitem>
+      <listitem>
+        <para>Anime 2015: <olink targetdocent="../../sub-category/winter-2015-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2015-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2015-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2015-anime">Fall</olink> </para>
+      </listitem>
+      <listitem>
+        <para>Anime 2014: <olink targetdocent="../../sub-category/winter-2014-anime">Winter</olink> | <olink targetdocent="../../sub-category/spring-2014-anime">Spring</olink> | <olink targetdocent="../../sub-category/summer-2014-anime">Summer</olink> | <olink targetdocent="../../sub-category/fall-2014-anime">Fall</olink> </para>
+      </listitem>
+    </orderedlist>
+    <sect2>
+      <title>
+        <olink targetdocent="../../about-us.html">Abouts us</olink>
+      </title>
+      <olink targetdocent="../../about-us.html">Abouts us</olink>
+    </sect2>
+    <sect2>
+      <title>
+        <olink targetdocent="../../contact-us.html">Contact us</olink>
+      </title>
+      <olink targetdocent="../../contact-us.html">Contact us</olink>
+    </sect2>
+    <sect2>
+      <title>
+        <olink targetdocent="../../privacy.html">Privacy</olink>
+      </title>
+      <olink targetdocent="../../privacy.html">Privacy</olink>
+      <para/>
+      <note>
+        <remark>HTML: &lt;meta name="" content="/images/logo.png"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="Gogoanime"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="en_US"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="website"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="100010507416730"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="517001538491321"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="Gogoanime | Watch anime online, English anime online HD"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="Watch anime online in English. You can watch free series and movies online and English subtitle."&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content=""&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="/images/logo.png"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="/images/logo.png"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="summary"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="Gogoanime | Watch anime online, English anime online HD"&gt;</remark>
+      </note>
+      <note>
+        <remark>HTML: &lt;meta name="" content="Watch anime online in English. You can watch free series and movies online and English subtitle."&gt;</remark>
+      </note>
+      <sect1 id="off_light">
+        <para/>
+      </sect1>
+      <para>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "G-6LL626G4N3");        LoadFilmOngoing(1);if(document.getElementById('scrollbar2')){
+    $('#scrollbar2').tinyscrollbar();
+}<note><remark>&lt;!--&lt;script type="text/javascript"&gt;</remark></note><note><remark>if(!window.BB_ind) { BB_ind = 0; }</remark></note><note><remark>if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)}</remark></note><note><remark>BB_ind++;</remark></note><note><remark>window.BB_skin = {</remark></note><note><remark>centerWidth: 1100,</remark></note><note><remark>centerDomId: '',</remark></note><note><remark>leftOffset: 0,</remark></note><note><remark>rightOffset: 0,</remark></note><note><remark>topPos: 0,</remark></note><note><remark>deferLoading: false,</remark></note><note><remark>fixed: true,</remark></note><note><remark>fixedStickTopOnScroll: false,</remark></note><note><remark>fixedScrollSecondaryTop: 0,</remark></note><note><remark>adjustSkinOnDynamicCenter: true,</remark></note><note><remark>zIndex: 0,</remark></note><note><remark>leftFrameId: '',</remark></note><note><remark>rightFrameId: '',</remark></note><note><remark>pl: 41600,</remark></note><note><remark>index: BB_ind</remark></note><note><remark>};</remark></note><note><remark>&lt;/script&gt;</remark></note><note><remark>&lt;script type="text/javascript" src="//st.bebi.com/bebi_v3.js"&gt;&lt;/script&gt;--&gt;</remark></note></para>
+    </sect2>
+  </sect1>
+</article>
